@@ -9,7 +9,7 @@
  </div>
 Sou Estudante do Curso Superior de Sistemas Para Internet 
 
-- 👨‍🎓 Estudante Estudante do Curso Superior de Sistemas Para Internet na [FICR](ficr.catolica.edu.br)👨‍🎓
+- 👨‍🎓 Estudante Estudante do Curso Superior de Sistemas Para Internet na [FICR](www.ficr.catolica.edu.br)👨‍🎓
 - ❤ Fã de FrontEnd
 - 👩‍💻 Buscando mais conhecimento.
 
@@ -25,7 +25,7 @@ Sou Estudante do Curso Superior de Sistemas Para Internet
 
 
 <div align = "left">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliakinnSilva&show_icons=true&theme=bear&count_private=true"/>
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=EliakinnSilva&show_icons=true&show_icons=true&theme=bear&count_private=true" />
+<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavojl&show_icons=true&theme=bear&count_private=true"/>
+<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=Gustavojl&show_icons=true&show_icons=true&theme=bear&count_private=true" />
 </div>
 
