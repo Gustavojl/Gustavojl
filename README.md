@@ -30,3 +30,4 @@ Sou Estudante do Curso Superior de Sistemas Para Internet
   <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavojl&show_icons=true&theme=bear&count_private=true"/>
 </div>
 
+.
