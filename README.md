@@ -3,7 +3,7 @@
 # 👨‍🎓 Olá, bom ter você por aqui!
 #🐱‍👤Bem Vindo ao meu Github🐱‍👤
   <div id="badges">
-  <a href = "[https://www.linkedin.com/in/eliakinnenoque/](https://www.linkedin.com/in/gustavo-jos%C3%A9-0b98b1263/)">
+  <a href = "[https://www.linkedin.com/in/gustavo-jos%C3%A9-0b98b1263/]">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
  </div>
